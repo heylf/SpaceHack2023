@@ -124,13 +124,6 @@ Read our [Contributing Guide](CONTRIBUTING.md) and [Code of Conduct](CODE_OF_CON
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/shdam">
-                    <img src="https://avatars.githubusercontent.com/u/49019552?v=4" width="75;" alt="shdam"/>
-                    <br />
-                    <sub><b>Søren Helweg Dam</b></sub>
-                </a>
-            </td>
-            <td align="center">
                 <a href="https://github.com/niklasmueboe">
                     <img src="https://avatars.githubusercontent.com/u/42138117?v=4" width="75;" alt="niklasmueboe"/>
                     <br />
@@ -145,26 +138,10 @@ Read our [Contributing Guide](CONTRIBUTING.md) and [Code of Conduct](CODE_OF_CON
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/kbiharie">
-                    <img src="https://avatars.githubusercontent.com/u/33690856?v=4" width="75;" alt="kbiharie"/>
-                    <br />
-                    <sub><b>kbiharie</b></sub>
-                </a>
-            </td>
-            <td align="center">
                 <a href="https://github.com/heylf">
                     <img src="https://avatars.githubusercontent.com/u/8162688?v=4" width="75;" alt="heylf"/>
                     <br />
                     <sub><b>heylf</b></sub>
-                </a>
-            </td>
-		</tr>
-		<tr>
-            <td align="center">
-                <a href="https://github.com/naveedishaque">
-                    <img src="https://avatars.githubusercontent.com/u/114547?v=4" width="75;" alt="naveedishaque"/>
-                    <br />
-                    <sub><b>Nav</b></sub>
                 </a>
             </td>
             <td align="center">
@@ -179,6 +156,22 @@ Read our [Contributing Guide](CONTRIBUTING.md) and [Code of Conduct](CODE_OF_CON
                     <img src="https://avatars.githubusercontent.com/u/57286623?v=4" width="75;" alt="Qirongmao97"/>
                     <br />
                     <sub><b>Qirong Mao</b></sub>
+                </a>
+            </td>
+		</tr>
+		<tr>
+            <td align="center">
+                <a href="https://github.com/kbiharie">
+                    <img src="https://avatars.githubusercontent.com/u/33690856?v=4" width="75;" alt="kbiharie"/>
+                    <br />
+                    <sub><b>kbiharie</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/naveedishaque">
+                    <img src="https://avatars.githubusercontent.com/u/114547?v=4" width="75;" alt="naveedishaque"/>
+                    <br />
+                    <sub><b>Nav</b></sub>
                 </a>
             </td>
             <td align="center">
@@ -200,6 +193,13 @@ Read our [Contributing Guide](CONTRIBUTING.md) and [Code of Conduct](CODE_OF_CON
                     <img src="https://avatars.githubusercontent.com/u/25506428?v=4" width="75;" alt="sebastiantiesmeyer"/>
                     <br />
                     <sub><b>sebastiantiesmeyer</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/shdam">
+                    <img src="https://avatars.githubusercontent.com/u/49019552?v=4" width="75;" alt="shdam"/>
+                    <br />
+                    <sub><b>Søren Helweg Dam</b></sub>
                 </a>
             </td>
 		</tr>
